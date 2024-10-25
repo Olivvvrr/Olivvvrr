@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![] (https://github.com/Olivvvrr/Olivvvrr/blob/main/main-question.png?raw=true)
-![] (https://github.com/Olivvvrr/Olivvvrr/blob/main/main-tech-recruiter.jpg?raw=true)
-![] (https://github.com/Olivvvrr/Olivvvrr/blob/main/main-dev.jpg?raw=true)
-![] (https://github.com/Olivvvrr/Olivvvrr/blob/main/main-dev.jpg?raw=true)
+![](https://github.com/Olivvvrr/Olivvvrr/blob/main/main-question.png?raw=true)
+![](https://github.com/Olivvvrr/Olivvvrr/blob/main/main-tech-recruiter.jpg?raw=true)
+![](https://github.com/Olivvvrr/Olivvvrr/blob/main/main-dev.jpg?raw=true)
+![](https://github.com/Olivvvrr/Olivvvrr/blob/main/main-dev.jpg?raw=true)
