@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github.com/Olivvvrr/Olivvvrr/blob/main/main-question.png?raw=true)
-![](https://github.com/Olivvvrr/Olivvvrr/blob/main/main-tech-recruiter.jpg?raw=true)
-![](https://github.com/Olivvvrr/Olivvvrr/blob/main/main-dev.jpg?raw=true)
-![](https://github.com/Olivvvrr/Olivvvrr/blob/main/main-dev.jpg?raw=true)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Olivvrr/repo-name/main/main-question.png" alt="Você é..." width="300px">
+  <br>
+  <img src="https://raw.githubusercontent.com/Olivvrr/repo-name/main/main-tech-recruiter.jpg" alt="Tech Recruiter" width="300px">
+  <br>
+  <img src="https://raw.githubusercontent.com/Olivvrr/repo-name/main/main-dev.jpg" alt="Dev" width="300px">
+  <br>
+  <img src="https://raw.githubusercontent.com/Olivvrr/repo-name/main/main-IT-enthusiast.jpg" alt="Entusiasta em TI" width="300px">
+</div>
