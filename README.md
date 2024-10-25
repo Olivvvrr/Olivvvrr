@@ -18,9 +18,16 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github.com/Olivvvrr/Olivvvrr/blob/main/main-question.png?raw=true" alt="Você é..." width="300px">
   <br>
-  <a> href="https://showcase-bay-phi.vercel.app/"><img src="https://github.com/Olivvvrr/Olivvvrr/blob/main/main-tech-recruiter.jpg?raw=true" alt="Tech Recruiter" width="300px"></a>
+  <a href="https://showcase-bay-phi.vercel.app/tech-recruiter">
+    <img src="https://github.com/Olivvvrr/Olivvvrr/blob/main/main-tech-recruiter.jpg?raw=true" alt="Tech Recruiter" width="300px">
+  </a>
   <br>
-   <a> href="https://showcase-bay-phi.vercel.app/"> <img src="https://github.com/Olivvvrr/Olivvvrr/blob/main/main-dev.jpg?raw=true" alt="Dev" width="300px"><\a>
+  <a href="https://showcase-bay-phi.vercel.app/dev">
+    <img src="https://github.com/Olivvvrr/Olivvvrr/blob/main/main-dev.jpg?raw=true" alt="Dev" width="300px">
+  </a>
   <br>
-   <a> href="https://showcase-bay-phi.vercel.app/"> <img src="https://github.com/Olivvvrr/Olivvvrr/blob/main/main-IT-enthusiast.jpg?raw=true" alt="Entusiasta em TI" width="300px"></a>
+  <a href="https://showcase-bay-phi.vercel.app/entusiasta">
+    <img src="https://github.com/Olivvvrr/Olivvvrr/blob/main/main-IT-enthusiast.jpg?raw=true" alt="Entusiasta em TI" width="300px">
+  </a>
 </div>
+
