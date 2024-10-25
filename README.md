@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github.com/Olivvvrr/Olivvvrr/blob/main/main-question.png?raw=true" alt="Você é..." width="300px">
   <br>
-  <a href="https://showcase-bay-phi.vercel.app/tech-recruiter">
+  <a href="https://showcase-jntecbrwh-olivvvrrs-projects.vercel.app/">
     <img src="https://github.com/Olivvvrr/Olivvvrr/blob/main/main-tech-recruiter.jpg?raw=true" alt="Tech Recruiter" width="300px">
   </a>
   <br>
-  <a href="https://showcase-bay-phi.vercel.app/dev">
+  <a href="https://showcase-jntecbrwh-olivvvrrs-projects.vercel.app/">
     <img src="https://github.com/Olivvvrr/Olivvvrr/blob/main/main-dev.jpg?raw=true" alt="Dev" width="300px">
   </a>
   <br>
-  <a href="https://showcase-bay-phi.vercel.app/entusiasta">
+  <a href="https://showcase-jntecbrwh-olivvvrrs-projects.vercel.app/">
     <img src="https://github.com/Olivvvrr/Olivvvrr/blob/main/main-IT-enthusiast.jpg?raw=true" alt="Entusiasta em TI" width="300px">
   </a>
 </div>
